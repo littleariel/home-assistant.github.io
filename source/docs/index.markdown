@@ -9,6 +9,7 @@ sharing: true
 footer: true
 ---
 
+
 The documentation covers from beginner to advanced topic around the installation, the setup, the configuration, and the usage of Home Assistant.
 
 <div class="text-center hass-option-cards" markdown="0">
